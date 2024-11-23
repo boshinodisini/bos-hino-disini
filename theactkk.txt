@@ -22,7 +22,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://savepic.me/images/2024/06/05/favicon.png" />
   <link rel="canonical" href="https://www.theactkk.net/" />
-  <link rel="amphtml" href="https://purefundsltd.b1speed.info/theactkk.html" />
+  <link rel="amphtml" href="https://theactkk.b1speed.info/" />
   <!-- start preload -->
   <link rel="preload" href="https://savepic.me/images/2024/11/21/p3.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
