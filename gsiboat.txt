@@ -18,6 +18,7 @@
   <link rel="shortcut icon" href="https://savepic.me/images/2024/06/05/favicon.png" />
   <link rel="canonical" href="https://gsiboat.com/" />
   <link rel="amphtml" href="https://gsiboat.gaskeun.info/" />
+  <meta name="google-site-verification" content="026vfQZmBUZ1e9-WmWQH5zoCbhmWvht0wK5d1LE-8OE" />
   <!-- start preload -->
   <link rel="preload" href="https://savepic.me/images/2025/01/26/server-slot-thailand.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
