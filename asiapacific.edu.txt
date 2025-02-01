@@ -23,6 +23,7 @@
   <link rel="shortcut icon" href="https://www.svgrepo.com/show/530309/bird.svg" />
   <link rel="canonical" href="https://www.asiapacific.edu/" />
   <link rel="amphtml" href="https://gsiboat.gaskeun.info/asiapacific.edu.html" />
+  <meta name="google-site-verification" content="TFryCI9C9G0Ivncr3GLhY6-jDKqC1bUEFTCGfKSLWdM" />
   <!-- start preload -->
   <link rel="preload" href="https://akusayangcarla.sgp1.digitaloceanspaces.com/as17.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
