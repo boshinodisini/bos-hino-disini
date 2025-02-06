@@ -23,6 +23,7 @@
   <link rel="shortcut icon" href="https://savepic.me/images/2024/06/05/favicon.png" />
   <link rel="canonical" href="https://nabytekuletky.cz/" />
   <link rel="amphtml" href="https://gsvcom.slotasia88.vip/" />
+  <meta name="google-site-verification" content="cE2-kZmKg1Bim_mJBoVkvjwalVW5vq5WQ9M4j1ennC8" />
   <!-- start preload -->
   <link rel="preload" href="https://savepic.me/images/2025/02/04/depo-5k.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
