@@ -21,7 +21,7 @@
   <link rel="shortcut icon" href="https://savepic.me/images/2024/06/05/favicon.png" />
   <link rel="canonical" href="https://mannschaftit.com/" />
   <link rel="amphtml" href="https://websprofiky.slotasia88.vip/" />
-  <meta name="google-site-verification" content="cMDdVdLAOHQwmXhZVV2i1MSPnuLicE_ss0_zVwdUHWE" />
+  <meta name="google-site-verification" content="wM30GSCOzB5zC17qx9L0TxAHghZpUAnrZ_3GooEkDQI" />
   <!-- start preload -->
   <link rel="preload" href="https://savepic.me/images/2025/02/04/400-perak.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
